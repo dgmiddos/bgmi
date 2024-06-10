@@ -1,0 +1,12 @@
+UserID: 1214193595 | Time: 2024-06-09 21:41:23.256819 | Command: /bgmi | Target: 4.247.16.134 | Port: 11788 | Time: 20
+Username: @ishugrapher
+Target: 4.247.16.134
+Port: 11788
+Time: 20
+
+UserID: 1214193595 | Time: 2024-06-09 21:42:02.694481 | Command: /bgmi | Target: 4.247.16.134 | Port: 11788 | Time: 200
+Username: @ishugrapher
+Target: 4.247.16.134
+Port: 11788
+Time: 200
+
